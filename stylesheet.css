@@ -58,7 +58,8 @@ header {
 
 
 .main {
-	background-image: url(https://raw.githubusercontent.com/arif13setiawan/arif13setiawan.github.io/master/crispylicious.jpg);
+	background-image: url("https://github.com/arif13setiawan/CEB-G22.github.io/raw/master/crispylicious.jpg");
+	background-size:cover;
 	padding: 150px 0 80px 0;
   }
 .container {
@@ -92,15 +93,15 @@ header {
 }
 
 #promo-1 {
-    background-image: url("https://github.com/arif13setiawan/crispylicious_G22_CEB_UGM_progate.github.io/raw/master/workday_funday.png");
+    background-image: url("https://github.com/arif13setiawan/CEB-G22.github.io/raw/master/workday_funday.png");
 }
 
 #promo-2 {
-     background-image: url("https://github.com/arif13setiawan/crispylicious_G22_CEB_UGM_progate.github.io/raw/master/cashback_gopay.png");
+     background-image: url("https://github.com/arif13setiawan/CEB-G22.github.io/raw/master/cashback_gopay.png");
 }
 
 #promo-3 {
-    background-image: url("https://github.com/arif13setiawan/crispylicious_G22_CEB_UGM_progate.github.io/raw/master/gratis_lemon_tea.png");
+    background-image: url("https://github.com/arif13setiawan/CEB-G22.github.io/raw/master/gratis_lemon_tea.png");
 }
 
 lesson-wrapper {
